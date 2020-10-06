@@ -1,5 +1,5 @@
 <manifest version="1.0" type="framework">
-    <hal format="hidl">
+<!--    <hal format="hidl">
         <name>vendor.lineage.trust</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
@@ -7,5 +7,5 @@
             <name>IUsbRestrict</name>
             <instance>default</instance>
         </interface>
-    </hal>
+    </hal> -->
 </manifest>
